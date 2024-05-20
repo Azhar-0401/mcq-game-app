@@ -14,4 +14,3 @@ const Question = ({ question, options, onAnswer }) => {
 };
 
 export default Question;
-// okk 
